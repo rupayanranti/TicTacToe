@@ -25,7 +25,11 @@
     border-radius: 1rem;
     box-shadow: 0 0 1em rgba(0, 0, 0, 0.2);
     font-size: 8vmin;
+<<<<<<< HEAD
     background-color: rgb(121, 111, 147);
+=======
+    background-color: rgb(101, 85, 146);
+>>>>>>> 0b8bbb9d0fda57075ab044a408090918e9a90f6f
     color: black;
     display: flex;
     justify-content: center;
@@ -39,6 +43,7 @@ body {
 
 #reset-btn, #new-btn {
     background-color: rgb(78, 18, 18);
+
     color: aliceblue;
     height: 8vmin;
     width: 25vmin;
